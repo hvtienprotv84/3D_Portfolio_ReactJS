@@ -14,9 +14,9 @@ const HomeInfo = ({ currentStage }) => {
         👋
         <br />
         
-        <span className='flex flex-row justify-center items-center'>
+        <span className='flex flex-row text-[14px] lg:text-[18px] justify-center items-center'>
         Software Engineer from Viet Nam 
-        <img className='w-[40px] ml-[5px]' src={VN} alt=''/>
+        <img className='w-[30px] ml-[5px]' src={VN} alt=''/>
         </span>
 
       </h1>

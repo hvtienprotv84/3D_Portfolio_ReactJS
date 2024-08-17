@@ -8,7 +8,7 @@ const Footer = () => {
       <hr className='border-slate-200' />
 
       <div className='footer-container'>
-        <p>
+        <p className="text-[15px] lg:text-[16px]">
           © 2024 <strong>Huỳnh Vĩnh Tiến</strong>. All rights reserved.
         </p>
 
